@@ -10,6 +10,10 @@ for .sql file
 4.create databese named login<br>
 5.then press create<br>
 6.in tool bar of phpmyadmin click import<br>
-7.on choose file, select login.sql file and click go<br>
-8.
+7.on choose file, select login.sql file and click go<br><br>
+**************<br><br>
+
+8.on path -> xampp/htdocs create a new folder named login_test_2
+9.copy and past all files on to above created folder<br>
+8.Now open new tab and type localhost/login_test_2<br>
 
