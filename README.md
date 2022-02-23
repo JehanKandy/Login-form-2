@@ -17,3 +17,8 @@ for .sql file
 9. copy and past all files on to above created folder<br>
 10. Now open new tab and type localhost/login_test_2<br>
 
+<br><br><br><br>
+************
+
+Thank you <br>
+Delevloped By :: JehanKandy
