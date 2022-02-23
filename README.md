@@ -21,4 +21,4 @@ for .sql file
 ************
 
 Thank you <br>
-Delevloped By :: JehanKandy
+Developed By :: JehanKandy
