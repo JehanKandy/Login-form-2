@@ -9,5 +9,7 @@ for .sql file
 3.go to phpmyadmin on top right<br>
 4.create databese named login<br>
 5.then press create<br>
-6.
+6.in tool bar of phpmyadmin click import<br>
+7.on choose file, select login.sql file and click go<br>
+8.
 
