@@ -15,5 +15,5 @@ for .sql file
 
 8.on path -> xampp/htdocs create a new folder named login_test_2
 9.copy and past all files on to above created folder<br>
-8.Now open new tab and type localhost/login_test_2<br>
+10.Now open new tab and type localhost/login_test_2<br>
 
